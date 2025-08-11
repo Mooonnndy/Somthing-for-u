@@ -358,7 +358,7 @@ button:hover {
   height: 20vmin; /* dibikin sama supaya bulat penuh */
   border-radius: 50%;
   
-  background-image: url('gambar.png'); /* path ke gambar mawar merah */
+  background-image: url('gambarr.png'); /* path ke gambar mawar merah */
   background-size:cover ;
   background-position: center;
   background-repeat: no-repeat;
@@ -1702,4 +1702,5 @@ button:hover {
 .container * {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
+
 } 
